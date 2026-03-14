@@ -1,0 +1,172 @@
+{
+  "tasks": [
+    {
+      "title": "生成今日社交媒体内容",
+      "description": "使用publish.ts生成Twitter和LinkedIn的每日营销内容",
+      "category": "content",
+      "priority": "high",
+      "tags": [
+        "daily",
+        "content"
+      ],
+      "id": "task_1773501671934_rfo3",
+      "status": "completed",
+      "createdAt": "2026-03-14T15:21:11.935Z",
+      "output": "/Users/chengli/Workspace/free2/projects/social-content-ai/output/daily_2026-03-14.md",
+      "completedAt": "2026-03-14T15:21:26.306Z"
+    },
+    {
+      "title": "创建HireFlow产品介绍视频脚本",
+      "description": "编写30秒产品介绍视频的中文脚本，用于小红书和抖音",
+      "category": "content",
+      "priority": "high",
+      "tags": [
+        "video",
+        "content"
+      ],
+      "id": "task_1773501671935_u28a",
+      "status": "completed",
+      "createdAt": "2026-03-14T15:21:11.935Z",
+      "output": "/Users/chengli/Workspace/free2/projects/social-content-ai/output/video_script_2026-03-14.md",
+      "completedAt": "2026-03-14T15:21:30.176Z"
+    },
+    {
+      "title": "撰写AI招聘行业分析长文",
+      "description": "写一篇2000字的行业分析文，发布到微信公众号",
+      "category": "content",
+      "priority": "medium",
+      "tags": [
+        "article",
+        "wechat"
+      ],
+      "id": "task_1773501671935_1vvf",
+      "status": "completed",
+      "createdAt": "2026-03-14T15:21:11.935Z",
+      "output": "/Users/chengli/Workspace/free2/projects/social-content-ai/output/article_2026-03-14.md",
+      "completedAt": "2026-03-14T15:21:38.947Z"
+    },
+    {
+      "title": "发布Twitter产品公告",
+      "description": "将生成的Twitter内容发布到X/Twitter上",
+      "category": "social",
+      "priority": "critical",
+      "tags": [
+        "twitter",
+        "launch"
+      ],
+      "id": "task_1773501671935_ciqc",
+      "status": "pending",
+      "createdAt": "2026-03-14T15:21:11.935Z"
+    },
+    {
+      "title": "发布小红书产品笔记",
+      "description": "编写并发布小红书图文笔记，介绍HireFlow功能",
+      "category": "social",
+      "priority": "critical",
+      "tags": [
+        "xiaohongshu",
+        "launch"
+      ],
+      "id": "task_1773501671935_cit3",
+      "status": "pending",
+      "createdAt": "2026-03-14T15:21:11.935Z"
+    },
+    {
+      "title": "发布LinkedIn专业文章",
+      "description": "发布LinkedIn文章，关于AI如何改变招聘行业",
+      "category": "social",
+      "priority": "high",
+      "tags": [
+        "linkedin",
+        "thought-leadership"
+      ],
+      "id": "task_1773501671935_o0zx",
+      "status": "pending",
+      "createdAt": "2026-03-14T15:21:11.935Z"
+    },
+    {
+      "title": "EAS iOS构建",
+      "description": "完成EAS iOS构建并测试。需要交互式终端进行证书设置。",
+      "category": "product",
+      "priority": "critical",
+      "tags": [
+        "ios",
+        "build"
+      ],
+      "id": "task_1773501671935_9d35",
+      "status": "pending",
+      "createdAt": "2026-03-14T15:21:11.935Z"
+    },
+    {
+      "title": "App Store提交准备",
+      "description": "准备App Store截图、描述文案、关键字",
+      "category": "product",
+      "priority": "high",
+      "tags": [
+        "appstore",
+        "submission"
+      ],
+      "id": "task_1773501671935_cygq",
+      "status": "pending",
+      "createdAt": "2026-03-14T15:21:11.935Z"
+    },
+    {
+      "title": "ProductHunt提交",
+      "description": "准备ProductHunt产品页面，选择最佳发布时间",
+      "category": "marketing",
+      "priority": "medium",
+      "tags": [
+        "producthunt",
+        "launch"
+      ],
+      "id": "task_1773501671936_8gos",
+      "status": "pending",
+      "createdAt": "2026-03-14T15:21:11.936Z"
+    },
+    {
+      "title": "设置Google Analytics",
+      "description": "在landing page上添加Google Analytics追踪代码",
+      "category": "analytics",
+      "priority": "medium",
+      "tags": [
+        "analytics",
+        "tracking"
+      ],
+      "id": "task_1773501671936_adwq",
+      "status": "pending",
+      "createdAt": "2026-03-14T15:21:11.936Z"
+    },
+    {
+      "title": "开发付费课程落地页",
+      "description": "创建AI招聘课程的购买页面，接入Stripe支付",
+      "category": "dev",
+      "priority": "medium",
+      "tags": [
+        "course",
+        "revenue"
+      ],
+      "id": "task_1773501671936_mpat",
+      "status": "pending",
+      "createdAt": "2026-03-14T15:21:11.936Z"
+    },
+    {
+      "title": "添加App内购推送",
+      "description": "实现每7天一次的升级提醒推送通知",
+      "category": "dev",
+      "priority": "low",
+      "tags": [
+        "notification",
+        "conversion"
+      ],
+      "id": "task_1773501671936_pqc1",
+      "status": "pending",
+      "createdAt": "2026-03-14T15:21:11.936Z"
+    }
+  ],
+  "lastUpdated": "2026-03-14T15:21:38.947Z",
+  "stats": {
+    "totalCompleted": 3,
+    "totalFailed": 0,
+    "streakDays": 0
+  }
+}
